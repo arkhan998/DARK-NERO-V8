@@ -18,9 +18,9 @@ global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
+global.alivemsg = '𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓'
+global.alivepic = 'https://i.imgur.com/oq5ThSf.jpeg '
+global.owner = [923196057528'] //ur owner number
 global.ownername = "kaveesha" //ur owner name
 global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
@@ -28,16 +28,16 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "923196057528" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
+global.botname = '𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓' //ur bot name
+global.linkz = "https://chat.whatsapp.com/LmbJi85z8b6G0pIV8YfyfU" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
+global.packname = "Malik SahaB" //ur sticker watermark packname
+global.author = "𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓" //ur sticker watermark author
 global.wm = "Dark Bot Inc." //ur watermark
 
 // Other
@@ -55,7 +55,7 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'ᴘʟᴇᴀꜱᴇ ᴡɪᴛʜ...',
+    wait: 'ᴘʟᴇᴀꜱᴇ Wait...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
